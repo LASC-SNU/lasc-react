@@ -1,11 +1,11 @@
 dependencies: \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.mm \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/Surface/RCTSurface.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/Surface/RCTSurfaceDelegate.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/Surface/RCTSurfaceView.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTAssert.h
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.mm \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/Surface/RCTSurfaceDelegate.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/Surface/RCTSurfaceView.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTAssert.h

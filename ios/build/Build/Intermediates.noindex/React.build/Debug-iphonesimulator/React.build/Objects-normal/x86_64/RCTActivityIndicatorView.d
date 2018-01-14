@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Views/RCTActivityIndicatorView.h
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Views/RCTActivityIndicatorView.h

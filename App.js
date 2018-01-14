@@ -14,6 +14,8 @@ import {
   View,
   Button
 } from 'react-native';
+import {StackNavigator} from 'react-navigation';
+
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' +
@@ -23,7 +25,11 @@ const instructions = Platform.select({
 });
 
 export default class App extends Component<{}> {
+  static navugationOptions = {
+    title : 'Main'
+  };
   render() {
+    const {navigate} = this.props.navigation;
     return (
       <View style={{
         flex: 1,
@@ -36,15 +42,20 @@ export default class App extends Component<{}> {
             source={{uri: 'https://avatars2.githubusercontent.com/u/32908260?s=200&v=4'}}
           />
         <View style={{backgroundColor: "#272828", borderRadius: 10,paddingLeft :60 ,paddingRight :60 ,paddingTop :10 ,paddingBottom :10 ,marginTop: 20}}>
-          <Button title="Login" color="#ffffff"/>
+          <Button title="Login" color="#ffffff" onPress = {() =>
+            navigate("Login",{})
+          }/>
         </View>
         <View style={{backgroundColor: "#272828", borderRadius: 10,paddingLeft :60 ,paddingRight :60 ,paddingTop :10 ,paddingBottom :10  ,marginTop: 20}}>
-          <Button title="Sign Up" color="#ffffff"/>
+          <Button title="Sign Up" color="#ffffff" onPress = {() =>
+            navigate("SignUp",{})
+          }/>
         </View>
       </View>
     );
   }
 }
+
 
 const buttonStyle = StyleSheet.create({
   button: {

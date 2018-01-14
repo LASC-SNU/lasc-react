@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h

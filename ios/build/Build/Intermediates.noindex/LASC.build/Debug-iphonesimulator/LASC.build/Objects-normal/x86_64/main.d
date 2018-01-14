@@ -1,3 +1,2 @@
-dependencies: \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/ios/LASC/main.m \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/ios/LASC/AppDelegate.h
+dependencies: /Users/shashvatkedia/Desktop/lasc-react/ios/LASC/main.m \
+  /Users/shashvatkedia/Desktop/lasc-react/ios/LASC/AppDelegate.h

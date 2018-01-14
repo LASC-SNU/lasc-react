@@ -1,15 +1,15 @@
 dependencies: \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Modules/RCTLayoutAnimation.m \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Modules/RCTLayoutAnimation.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Views/RCTAnimationType.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTConvert.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Modules/RCTLayoutAnimation.m \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Modules/RCTLayoutAnimation.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/shashvatkedia/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/shashvatkedia/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/shashvatkedia/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

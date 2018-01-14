@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTPlatform.m \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTPlatform.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTVersion.h
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTPlatform.m \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTPlatform.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTVersion.h

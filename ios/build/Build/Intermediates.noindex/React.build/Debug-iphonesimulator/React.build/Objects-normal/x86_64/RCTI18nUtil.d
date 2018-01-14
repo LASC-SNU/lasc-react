@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Modules/RCTI18nUtil.m \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Modules/RCTI18nUtil.h
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Modules/RCTI18nUtil.m \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Modules/RCTI18nUtil.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
-  /Users/prakamyamishra/Desktop/ReactNativeTut/LASC/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
+  /Users/shashvatkedia/Desktop/lasc-react/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
