@@ -28,17 +28,9 @@ export default class SignUpAsStu extends Component{
           <TextInput style={stuSignUp.inputStyle}
           placeholder="Net ID"/>
         </View>
-        <View style={stuSignUp.innerContainer}>
-        <Picker
-          selectedValue={this.state.subject}
-          onValueChange={(itemValue, itemIndex) => this.setState({subject: itemValue})}>
-          <Picker.Item label="PHY-101" value="PHY-101" />
-          <Picker.Item label="CHD-101" value="CHD-101" />
-          <Picker.Item label="MAT-101" value="MAT-101"/>
-</Picker>
-</View>
         <View style={stuSignUp.button}>
-          <Button title="Get started" color = "#ffffff"/>
+          <Button title="Get started" color = "#ffffff"
+          onPress={() => navigate('StuDashboard')}/>
         </View>
       </View>
     );
