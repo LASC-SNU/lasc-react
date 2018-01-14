@@ -1,5 +1,6 @@
 import React,{Component} from 'react';
-import {View,Text,TextInput,StyleSheet,Button,Picker} from 'react-native';
+import {View,Text,TextInput,StyleSheet,Button} from 'react-native';
+import {Dropdown} from 'react-native-material-dropdown';
 
 export default class SignUpAsStu extends Component{
   constructor(props){
@@ -11,6 +12,13 @@ export default class SignUpAsStu extends Component{
   };
   render(){
     const {navigate} = this.props.navigation;
+    const data = [{
+      value : 'PHY-101'
+    },{
+      value : 'CHD-101'
+    },{
+      value : 'MAT-101'
+    }];
     return(
       <View style={stuSignUp.container}>
         <View style={stuSignUp.innerContainer}>
@@ -28,13 +36,13 @@ export default class SignUpAsStu extends Component{
           <TextInput style={stuSignUp.inputStyle}
           placeholder="Net ID"/>
         </View>
-        <Picker
-          selectedValue={this.state.subject}
-          onValueChange={(value,index) => this.setState({language : value})}>
-          <Picker.Item label="Physics" value="Physics"/>
-          <Picker.Item label="Chemistry" value="Chemistry"/>
-          <Picker.Item label="Mathematics" value="Mathematics"/>
-        </Picker>
+        <Dropdown style={stuSignUp.dropdownStyle}
+        value="PHY-101"
+        itemTextStyle={stuSignUp.textStyle}
+        selectedItemColor="#000000"
+        label="LASC Subject"
+        data={data}
+        itemCount={2}/>
         <View style={stuSignUp.button}>
           <Button title="Get started" color = "#ffffff"/>
         </View>
@@ -51,7 +59,7 @@ const stuSignUp = StyleSheet.create({
   },
   innerContainer : {
     flex : 1,
-    backgroundColor: "#cccccc",
+  //  backgroundColor: "#cccccc",
     flexDirection : 'row',
     justifyContent : 'space-around',
     alignItems : 'center',
@@ -61,7 +69,7 @@ const stuSignUp = StyleSheet.create({
     paddingTop :25,
     paddingBottom :25,
     marginTop: 30,
-    borderColor : '#00ffff',
+    //borderColor : '#00ffff',
   },
   textStyle : {
     fontSize : 20,
@@ -80,5 +88,13 @@ const stuSignUp = StyleSheet.create({
     marginLeft : 20,
     color : '#ffffff',
     textAlign : 'left',
+  },
+  dropdownStyle : {
+    borderRadius : 10,
+    paddingTop : 10,
+    paddingLeft : 80,
+    paddingRight : 80,
+    marginTop : 30,
+    height : 40
   }
 });
