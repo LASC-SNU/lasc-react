@@ -9,7 +9,9 @@
   "dependencies": {
     "react": "16.2.0",
     "react-native": "0.52.0",
+    "react-native-dropdown": "0.0.6",
     "react-native-material-dropdown": "^0.6.1",
+    "react-native-select-list": "^1.0.5",
     "react-navigation": "^1.0.0-beta.25"
   },
   "devDependencies": {

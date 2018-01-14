@@ -34,8 +34,8 @@ export default class App extends Component<{}> {
       <View style={{
         flex: 1,
         flexDirection: 'column',
-        marginTop : 100,
         alignItems: 'center',
+        backgroundColor : 'white',
       }}>
         <Image
             style={{width: 150, height: 150}}
@@ -59,7 +59,7 @@ export default class App extends Component<{}> {
 
 const buttonStyle = StyleSheet.create({
   button: {
-    backgroundColor: "#272828",
+    backgroundColor: "#00a2f9",
     borderRadius: 10,
     paddingLeft :60,
     paddingRight :60,

@@ -32,10 +32,11 @@ const signupStyles = StyleSheet.create({
     flex : 1,
     flexDirection : 'column',
     justifyContent : 'center',
-    alignItems: 'center'
+    alignItems: 'center',
+    backgroundColor: "white",
   },
   button: {
-    backgroundColor: "#272828",
+    backgroundColor: "#00a2f9",
     borderRadius: 10,
     paddingLeft :60,
     paddingRight :60,

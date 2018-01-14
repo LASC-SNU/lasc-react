@@ -1,6 +1,5 @@
 import React,{Component} from 'react';
-import {View,Text,TextInput,StyleSheet,Button} from 'react-native';
-import {Dropdown} from 'react-native-material-dropdown';
+import {View,Text,TextInput,StyleSheet,Button,Picker} from 'react-native';
 
 export default class SignUpAsStu extends Component{
   constructor(props){
@@ -12,13 +11,6 @@ export default class SignUpAsStu extends Component{
   };
   render(){
     const {navigate} = this.props.navigation;
-    const data = [{
-      value : 'PHY-101'
-    },{
-      value : 'CHD-101'
-    },{
-      value : 'MAT-101'
-    }];
     return(
       <View style={stuSignUp.container}>
         <View style={stuSignUp.innerContainer}>
@@ -36,13 +28,15 @@ export default class SignUpAsStu extends Component{
           <TextInput style={stuSignUp.inputStyle}
           placeholder="Net ID"/>
         </View>
-        <Dropdown style={stuSignUp.dropdownStyle}
-        value="PHY-101"
-        itemTextStyle={stuSignUp.textStyle}
-        selectedItemColor="#000000"
-        label="LASC Subject"
-        data={data}
-        itemCount={2}/>
+        <View style={stuSignUp.innerContainer}>
+        <Picker
+          selectedValue={this.state.subject}
+          onValueChange={(itemValue, itemIndex) => this.setState({subject: itemValue})}>
+          <Picker.Item label="PHY-101" value="PHY-101" />
+          <Picker.Item label="CHD-101" value="CHD-101" />
+          <Picker.Item label="MAT-101" value="MAT-101"/>
+</Picker>
+</View>
         <View style={stuSignUp.button}>
           <Button title="Get started" color = "#ffffff"/>
         </View>
@@ -53,13 +47,14 @@ export default class SignUpAsStu extends Component{
 
 const stuSignUp = StyleSheet.create({
   container : {
-    flex : .8,
+    flex : .5,
     flexDirection : 'column',
-    alignItems : 'center'
+    alignItems : 'center',
+    backgroundColor: "white",
   },
   innerContainer : {
     flex : 1,
-  //  backgroundColor: "#cccccc",
+    backgroundColor: "#d5dbe0",
     flexDirection : 'row',
     justifyContent : 'space-around',
     alignItems : 'center',
@@ -69,13 +64,13 @@ const stuSignUp = StyleSheet.create({
     paddingTop :25,
     paddingBottom :25,
     marginTop: 30,
-    //borderColor : '#00ffff',
+    borderColor : '#00ffff',
   },
   textStyle : {
     fontSize : 20,
   },
   button: {
-    backgroundColor: "#272828",
+    backgroundColor: "#00a2f9",
     borderRadius: 10,
     paddingLeft :80,
     paddingRight :80,
@@ -88,13 +83,5 @@ const stuSignUp = StyleSheet.create({
     marginLeft : 20,
     color : '#ffffff',
     textAlign : 'left',
-  },
-  dropdownStyle : {
-    borderRadius : 10,
-    paddingTop : 10,
-    paddingLeft : 80,
-    paddingRight : 80,
-    marginTop : 30,
-    height : 40
   }
 });
