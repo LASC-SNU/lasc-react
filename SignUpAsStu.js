@@ -28,13 +28,6 @@ export default class SignUpAsStu extends Component{
           <TextInput style={stuSignUp.inputStyle}
           placeholder="Net ID"/>
         </View>
-        <Picker
-          selectedValue={this.state.subject}
-          onValueChange={(value,index) => this.setState({language : value})}>
-          <Picker.Item label="Physics" value="Physics"/>
-          <Picker.Item label="Chemistry" value="Chemistry"/>
-          <Picker.Item label="Mathematics" value="Mathematics"/>
-        </Picker>
         <View style={stuSignUp.button}>
           <Button title="Get started" color = "#ffffff"/>
         </View>
@@ -45,13 +38,14 @@ export default class SignUpAsStu extends Component{
 
 const stuSignUp = StyleSheet.create({
   container : {
-    flex : .8,
+    flex : .5,
     flexDirection : 'column',
-    alignItems : 'center'
+    alignItems : 'center',
+    backgroundColor: "white",
   },
   innerContainer : {
     flex : 1,
-    backgroundColor: "#cccccc",
+    backgroundColor: "#d5dbe0",
     flexDirection : 'row',
     justifyContent : 'space-around',
     alignItems : 'center',
@@ -67,7 +61,7 @@ const stuSignUp = StyleSheet.create({
     fontSize : 20,
   },
   button: {
-    backgroundColor: "#272828",
+    backgroundColor: "#00a2f9",
     borderRadius: 10,
     paddingLeft :80,
     paddingRight :80,
