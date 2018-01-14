@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import {View,Text,TextInput,StyleSheet,Picker} from 'react-native';
+import {View,Text,TextInput,StyleSheet,Button,Picker} from 'react-native';
 
 export default class SignUpAsStu extends Component{
   constructor(props){
@@ -13,37 +13,31 @@ export default class SignUpAsStu extends Component{
     const {navigate} = this.props.navigation;
     return(
       <View style={stuSignUp.container}>
-      <View style={stuSignUp.innerContainer}>
-      <Text style={stuSignUp.textStyle}>
-      Enter your name :-
-      </Text>
-      <TextInput
+        <View style={stuSignUp.innerContainer}>
+          <TextInput
+            style={stuSignUp.inputStyle}
+            placeholder="Full name"
+          />
+        </View>
+        <View style={stuSignUp.innerContainer}>
+          <TextInput
           style={stuSignUp.inputStyle}
-          placeholder="Enter your name here"
-        />
-      </View>
-      <View style={stuSignUp.innerContainer}>
-      <Text style={stuSignUp.textStyle}>
-      Enter your id :-
-      </Text>
-      <TextInput
-      style={stuSignUp.inputStyle}
-      placeholder="Enter your id here"/>
-      </View>
-      <View style={stuSignUp.innerContainer}>
-      <Text style={stuSignUp.textStyle}>
-      Enter your netid :-
-      </Text>
-      <TextInput style={stuSignUp.inputStyle}
-      placeholder="Enter your netid here"/>
-      </View>
-      /*<Picker
-      selectedValue={this.state.subject}
-      onValueChange={(value,index) => this.setState({language : value})}>
-      <Picker.Item label="Physics" value="Physics"/>
-      <Picker.Item label="Chemistry" value="Chemistry"/>
-      <Picker.Item label="Mathematics" value="Mathematics"/>
-      </Picker> */
+          placeholder="Roll number"/>
+        </View>
+        <View style={stuSignUp.innerContainer}>
+          <TextInput style={stuSignUp.inputStyle}
+          placeholder="Net ID"/>
+        </View>
+        <Picker
+          selectedValue={this.state.subject}
+          onValueChange={(value,index) => this.setState({language : value})}>
+          <Picker.Item label="Physics" value="Physics"/>
+          <Picker.Item label="Chemistry" value="Chemistry"/>
+          <Picker.Item label="Mathematics" value="Mathematics"/>
+        </Picker>
+        <View style={stuSignUp.button}>
+          <Button title="Get started" color = "#ffffff"/>
+        </View>
       </View>
     );
   }
@@ -51,23 +45,40 @@ export default class SignUpAsStu extends Component{
 
 const stuSignUp = StyleSheet.create({
   container : {
-    flex : 1,
+    flex : .8,
     flexDirection : 'column',
-    justifyContent : 'center',
     alignItems : 'center'
   },
   innerContainer : {
     flex : 1,
+    backgroundColor: "#cccccc",
     flexDirection : 'row',
     justifyContent : 'space-around',
     alignItems : 'center',
-    marginTop : 10
+    borderRadius: 15,
+    paddingLeft :80,
+    paddingRight :80,
+    paddingTop :25,
+    paddingBottom :25,
+    marginTop: 30,
+    borderColor : '#00ffff',
   },
   textStyle : {
-    fontSize : 20
+    fontSize : 20,
+  },
+  button: {
+    backgroundColor: "#272828",
+    borderRadius: 10,
+    paddingLeft :80,
+    paddingRight :80,
+    paddingTop :10,
+    paddingBottom :10,
+    marginTop: 30
   },
   inputStyle : {
     height : 40,
-    marginLeft : 10
+    marginLeft : 20,
+    color : '#ffffff',
+    textAlign : 'left',
   }
 });
