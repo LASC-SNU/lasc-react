@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {View,Button,StyleSheet} from 'react-native';
+import {View,Button,StyleSheet,Text} from 'react-native';
 
 export default class SignUp extends Component<{}>{
   static navigationOptions = {
@@ -9,13 +9,16 @@ export default class SignUp extends Component<{}>{
     const {navigate} = this.props.navigation;
     return(
       <View style={signupStyles.container}>
+      <Text style={signupStyles.textStyle}>
+      Sign up as
+      </Text>
       <View style={signupStyles.button}>
-      <Button title="Sign Up as Instructor"
+      <Button title="Instructor"
       color = "#ffffff"
       onPress = { () => navigate("SignUpAsIns")}/>
       </View>
       <View style={signupStyles.button}>
-      <Button title="Sign Up as Student"
+      <Button title="Student"
       color = "#ffffff"
       onPress = { () => navigate("SignUpAsStu")}/>
       </View>
@@ -28,7 +31,8 @@ const signupStyles = StyleSheet.create({
   container : {
     flex : 1,
     flexDirection : 'column',
-    justifyContent : 'center'
+    justifyContent : 'center',
+    alignItems: 'center'
   },
   button: {
     backgroundColor: "#272828",
@@ -37,6 +41,12 @@ const signupStyles = StyleSheet.create({
     paddingRight :60,
     paddingTop :10,
     paddingBottom :10,
-    marginTop: 20
+    marginTop: 30
+  },
+  textStyle : {
+    fontWeight : 'bold',
+    fontSize : 40,
+    color : '#46484c',
+    marginBottom : 30
   }
 });
