@@ -63,7 +63,7 @@
 		</data>
 		<key>PlugIns/LASCTests.xctest.dSYM/Contents/Resources/DWARF/LASCTests</key>
 		<data>
-		0PmR85z+0p+dsCzbV6UkOuAOSXA=
+		rYN5Hjrl1sdxQ00gYOjOg3xmb0I=
 		</data>
 		<key>PlugIns/LASCTests.xctest/Info.plist</key>
 		<data>
@@ -71,7 +71,7 @@
 		</data>
 		<key>PlugIns/LASCTests.xctest/LASCTests</key>
 		<data>
-		Ch64sVBTJbcAyhP0QCACMPQWbe4=
+		7Oj/asrpKvg9DCPMKjWFmOviKSw=
 		</data>
 		<key>PlugIns/LASCTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -207,11 +207,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0PmR85z+0p+dsCzbV6UkOuAOSXA=
+			rYN5Hjrl1sdxQ00gYOjOg3xmb0I=
 			</data>
 			<key>hash2</key>
 			<data>
-			lJi4cWgJojs3REw65n2LtHw/9NJOkeBvWsW1KuVNTR0=
+			KQ8ciIQfzKa9Uac1X5rDB91Ymwz9LJolxDvFX71pldg=
 			</data>
 		</dict>
 		<key>PlugIns/LASCTests.xctest/Info.plist</key>
@@ -229,11 +229,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ch64sVBTJbcAyhP0QCACMPQWbe4=
+			7Oj/asrpKvg9DCPMKjWFmOviKSw=
 			</data>
 			<key>hash2</key>
 			<data>
-			9iZDs6b6sDafbSLGHn/OeieO1s9SG0sabSfsTP7YZdM=
+			jhsKJXGhi1agyG5LqzyLGlRkIssuMHclCkC0l5yfJZQ=
 			</data>
 		</dict>
 		<key>PlugIns/LASCTests.xctest/_CodeSignature/CodeResources</key>
