@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		mY3tKK2F102lmZtMsBVs7+L6v/g=
+		gv4rKhiqfcqgc9tuBXKQfFYEHMA=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -71,7 +71,7 @@
 		</data>
 		<key>PlugIns/LASCTests.xctest/LASCTests</key>
 		<data>
-		7Oj/asrpKvg9DCPMKjWFmOviKSw=
+		W1vizsoMSyPYbcjy/fbYOCBdWcU=
 		</data>
 		<key>PlugIns/LASCTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -84,11 +84,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mY3tKK2F102lmZtMsBVs7+L6v/g=
+			gv4rKhiqfcqgc9tuBXKQfFYEHMA=
 			</data>
 			<key>hash2</key>
 			<data>
-			QzXH9vYHyUoVtLGMv2W7ZnE5//NbxjcjpGrCSKrV7fM=
+			W2LKDZ4K1sasTdVuKa504Fp4IKDWPB5tlwbXTKjxFpo=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -229,11 +229,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7Oj/asrpKvg9DCPMKjWFmOviKSw=
+			W1vizsoMSyPYbcjy/fbYOCBdWcU=
 			</data>
 			<key>hash2</key>
 			<data>
-			jhsKJXGhi1agyG5LqzyLGlRkIssuMHclCkC0l5yfJZQ=
+			AInGPkvHUiClc+IKO2QCYEI9Li+vsizKQ3l8hUIDdWw=
 			</data>
 		</dict>
 		<key>PlugIns/LASCTests.xctest/_CodeSignature/CodeResources</key>

@@ -2,18 +2,10 @@ import React, {Component} from 'react';
 import {StackNavigator} from 'react-navigation';
 import App from './App';
 import Login from './Login';
-import SignUp from './SignUp';
-import SignUpAsStu from './SignUpAsStu';
-import SignUpAsIns from './SignUpAsIns';
-import StuDashboard from './stuDashboard';
 
 const main = StackNavigator({
   Home : {screen : App},
-  Login : {screen : Login},
-  SignUp : {screen : SignUp},
-  SignUpAsIns : {screen : SignUpAsIns},
-  SignUpAsStu : {screen : SignUpAsStu},
-  StuDashboard : {screen : StuDashboard}
+  Login : {screen : Login}
 });
 
 export default main;

@@ -46,11 +46,6 @@ export default class App extends Component<{}> {
             navigate("Login",{})
           }/>
         </View>
-        <View style={buttonStyle.button}>
-          <Button title="Sign Up" color="#ffffff" onPress = {() =>
-            navigate("SignUp",{})
-          }/>
-        </View>
       </View>
     );
   }

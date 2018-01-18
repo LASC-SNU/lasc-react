@@ -1,10 +1,10 @@
-import React, { Component} from 'react';
-import {View, StyleSheet} from 'react-native';
+import React,{Component} from 'react'
+import {View} from 'react-native'
 
-export default class Login extends Component<{}> {
-  render() {
+export default class Login extends Component<{}>{
+  render(){
     return(
-      <View >
+      <View>
       </View>
     );
   }
