@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.m \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
