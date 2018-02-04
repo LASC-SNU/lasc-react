@@ -1,5 +1,12 @@
 import React, {Component} from 'react';
-import {StyleSheet,View, Text, KeyboardAvoidingView, Button} from 'react-native';
+import {
+  StyleSheet,
+  View,
+  Text,
+  KeyboardAvoidingView,
+  Button,
+  Alert
+} from 'react-native';
 
 export default class MarkAttendance extends Component<{}>{
 
@@ -7,12 +14,23 @@ export default class MarkAttendance extends Component<{}>{
     title : 'Attendance'
   };
 
+  alertFunction = () => {
+    const{navigate} = this.props.navigation;
+    Alert.alert(
+  'Attendance',
+  'Sucessful!',
+  [
+    {text: 'Done', onPress: () => navigate("DashBoard",{})},
+  ],
+  { cancelable: false }
+)
+  }
+
   render(){
     const{navigate} = this.props.navigation;
     return (
       <KeyboardAvoidingView behavior="padding" style={style.container}>
-        <Button title="Submit Attendance" color="#ffffff" onPress = {() =>
-        navigate("AttendanceConfirm",{})}/>
+        <Button title="Submit Attendance" color="#ffffff" onPress = {this.alertFunction}/>
       </KeyboardAvoidingView>
     );
   }
