@@ -3,13 +3,13 @@ import {StackNavigator} from 'react-navigation';
 import App from './App';
 import DashBoard from './DashBoard';
 import MarkAttendance from './MarkAttendance';
-import AttendanceConfirm from './AttendanceConfirm';
+import LogOutScreen from './LogoutScreen';
 
 const main = StackNavigator({
   Home : {screen : App},
   DashBoard : {screen : DashBoard},
   MarkAttendance : {screen : MarkAttendance},
-  AttendanceConfirm : {screen : AttendanceConfirm}
+  LogOutScreen : {screen : LogOutScreen}
 });
 
 export default main;
