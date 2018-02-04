@@ -25,7 +25,7 @@ const instructions = Platform.select({
 });
 
 export default class App extends Component<{}> {
-  static navugationOptions = {
+  static navigationOptions = {
     title : 'Main'
   };
   render() {
@@ -43,7 +43,7 @@ export default class App extends Component<{}> {
           />
         <View style={buttonStyle.button}>
           <Button title="Login" color="#ffffff" onPress = {() =>
-            navigate("Login",{})
+            navigate("DashBoard",{})
           }/>
         </View>
       </View>

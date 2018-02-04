@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/Libraries/Text/RCTTextViewManager.m \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/Libraries/Text/RCTTextViewManager.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/Libraries/Text/RCTConvert+Text.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/Libraries/Text/RCTShadowTextView.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/Libraries/Text/RCTTextView.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/Libraries/Text/RCTTextInput.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/Libraries/Text/RCTBackedTextInputViewProtocol.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/Libraries/Text/RCTFontAttributes.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/Libraries/Text/RCTFontAttributesDelegate.h

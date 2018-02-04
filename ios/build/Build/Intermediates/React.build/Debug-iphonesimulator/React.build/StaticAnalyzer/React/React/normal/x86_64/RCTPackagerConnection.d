@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/DevSupport/RCTPackagerConnection.mm \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTBundleURLProvider.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h

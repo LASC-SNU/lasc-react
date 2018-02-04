@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTBridge.m \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Pranav/Desktop/lasc-react/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/Pranav/Desktop/lasc-react/node_modules/react-native/React/Base/RCTReloadCommand.h
